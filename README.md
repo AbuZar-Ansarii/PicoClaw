@@ -32,7 +32,6 @@ mv picoclaw /usr/local/bin/
 Ubuntu uses the /root/ directory as home. Create the config folder and file:
 ```
 mkdir -p ~/.picoclaw
-nano ~/.picoclaw/config.json
 ```
 ## 5. Paste this config and Replace YOUR_TELEGRAM_TOKEN_HERE and ID  with your Bot token and ID (you can use your preffered ollama model):
 ```
