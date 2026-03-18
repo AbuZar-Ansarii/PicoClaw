@@ -1,4 +1,5 @@
 # 🦞 Run PicoClaw on phone 🦞
+![logo](https://github.com/user-attachments/assets/4c390fe2-53a0-4ecd-b39d-cf6c6cee76ee)
 
 PicoClaw is an ultra-lightweight, open-source AI agent framework designed to run on resource-constrained hardware (like $10 RISC-V boards or old Android phones). It is a Go-native, "bare-metal" alternative to heavier frameworks like OpenClaw.
 
